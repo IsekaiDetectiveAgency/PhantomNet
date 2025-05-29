@@ -1,0 +1,224 @@
+! May 26, 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
+chatgpt.com##div.items-center.flex > .focus-visible\:ring-offset-2.focus-visible\:ring-current.focus-visible\:ring-2.focus-visible\:outline-none.whitespace-nowrap.font-normal.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
+chatgpt.com##.focus-visible\:outline-0.transition.rounded-full.justify-center.items-center.h-10.aspect-square.flex.radix-state-open\:text-token-text-secondary.hover\:bg-token-surface-hover.hover\:text-token-text-primary.text-token-text-secondary
+chatgpt.com##.empty\:hidden.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.px-\[3px\].z-30.bottom-0.sticky.bg-token-bg-elevated-secondary
+chatgpt.com##.focus-visible\:outline-0.px-2.rounded-lg.justify-center.items-center.w-10.h-10.flex.focus-visible\:bg-token-surface-hover.hover\:bg-token-surface-hover.no-draggable.text-token-text-primary
+chatgpt.com##.group-data-scrolled-from-top\/scrollport\:shadow-\(--sharp-edge-top-shadow\).px-2.z-30.top-0.sticky.bg-token-bg-elevated-secondary
+chatgpt.com###conversation-header-actions > span
+chatgpt.com###page-header > div.items-center.flex > div.items-center.flex
+chatgpt.com##.text-token-text-primary.btn-secondary.relative.btn
+chatgpt.com##.\[box-shadow\:var\(--sharp-edge-top-shadow\)\].\@\[84rem\]\/thread\:shadow-none\!.\@\[84rem\]\/thread\:bg-transparent.\@\[84rem\]\/thread\:end-0.\@\[84rem\]\/thread\:start-0.\@\[84rem\]\/thread\:absolute.max-md\:hidden.motion-safe\:transition.\*\:pointer-events-auto.\[view-transition-name\:var\(--vt-page-header\)\].select-none.pointer-events-none.bg-token-main-surface-primary.h-header-height.z-20.justify-between.items-center.flex.p-3.top-0.sticky.no-draggable-children.draggable
+||chatgpt.com/backend-api/content
+||lh3.googleusercontent.com/
+
+
+! May 26, 2025 https://paadars.com
+paadars.com##.pa-download
+paadars.com##li.pa-menu-item:nth-of-type(7)
+paadars.com##li.pa-menu-item:nth-of-type(8)
+paadars.com##li.pa-menu-item:nth-of-type(6)
+paadars.com##li.pa-menu-item:nth-of-type(5)
+paadars.com##li.pa-menu-item:nth-of-type(2)
+paadars.com##.pa-footer-mainparent.sp-d-flex.sp-center
+paadars.com##.sp-center.sp-flex-column.sp-d-flex.pa-footer.sp-relative
+paadars.com##.swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-clickable.swiper-pagination1
+paadars.com##.pa-book-header
+paadars.com##.pa-book-detail
+paadars.com###chatbox
+paadars.com##.sp-w.sp-flex-column.sp-d-flex.pa-comment-main
+paadars.com##.book-info-star-title
+||paadars.com/themes/default/images
+||paadars.com/themes/new/images
+||paadars.com/files/ads
+
+! May 26, 2025 https://hianimez.to
+hianimez.to##.pre-tabs-min.pre-tabs.nav-tabs.nav
+hianimez.to##.schedule-full.block_area-schedule.block_area_sidebar.block_area
+hianimez.to###footer-about
+hianimez.to##.block_area-connecting.block_area_sidebar.block_area
+hianimez.to###mobile_menu
+hianimez.to##.ps_-status
+hianimez.to##.container > .header-setting > .hs-toggles > div.hst-item
+hianimez.to##a.hst-item:nth-of-type(3)
+hianimez.to##a.hst-item:nth-of-type(4)
+hianimez.to##.btn-login.btn-primary.btn-sm.btn.btn-user
+hianimez.to##.header-group > .anw-group > .zrg-title > .top
+hianimez.to##.breadcrumb
+hianimez.to##.float-right.rr-title
+hianimez.to##.description
+hianimez.to##.button-rate
+hianimez.to##.dt-comment
+hianimez.to##.tick-quality.tick-item
+hianimez.to##.tick-pg.tick-item
+hianimez.to###watch-list-content > .btn-sm.btn
+hianimez.to##.pc-right
+hianimez.to##.pc-light.pc-toggle.pc-item > .toggle-basic
+hianimez.to##.pc-resize.pc-item > .btn-sm.btn
+hianimez.to##.guidelines
+hianimez.to##.justify-content-start.block_area-header > .mr-4.bah-heading > .cat-heading
+hianimez.to##.fa-laugh.fas
+hianimez.to##.ci-form > .user-name
+hianimez.to##.comment-input
+hianimez.to##.btn-light.btn-xs.btn
+hianimez.to##.mb-3.m-hide.film-text
+hianimez.to##.m-hide.film-description > .text
+hianimez.to##.m-hide.film-description
+hianimez.to##.wl-item.film-fav
+hianimez.to##.mt-2.fd-infor > .tick > .tick-dub.tick-item
+hianimez.to##.btn-light.btn-radius.btn
+hianimez.to##.block-live
+hianimez.to##.anisc-info-wrap
+hianimez.to##.swiper-slide-active.swiper-slide > .deslide-item > .deslide-item-content > .sc-detail > .mr-1.scd-item
+hianimez.to##.swiper-slide-active.swiper-slide > .deslide-item > .deslide-item-content > .sc-detail > .m-hide.scd-item
+hianimez.to##.swiper-slide-active.swiper-slide > .deslide-item > .deslide-item-content > .desi-description
+hianimez.to##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > .deslide-item > .deslide-item-content > .desi-sub-text
+hianimez.to##.swiper-slide-active.swiper-slide > .deslide-item > .deslide-item-content > .desi-sub-text
+hianimez.to##.swiper-navigation
+hianimez.to##.trending-navi
+hianimez.to##.number > span
+hianimez.to###wrapper > .active
+hianimez.to##.ssc-quick
+hianimez.to##.ssc-label
+hianimez.to##section.block_area_home.block_area:nth-of-type(3)
+hianimez.to##.block_area-actors.block_area
+hianimez.to##.servers-sub.ps_-block-sub.ps_-block > .ps__-title
+hianimez.to##.share-buttons-detail.share-buttons
+hianimez.to##.info > .ibottom
+hianimez.to##.desi-description
+||cdn.noitatnemucod.net/avatar/$image
+||hianimez.to/images/share-icon.gif$image
+||hianimez.to/images/live.svg$image
+||hianimez.to/images/no-avatar.jpeg$image
+||hianimez.to/images/share-icon.gif$image
+||hianimez.to/images/share-icon.gif$image
+||cdn.noitatnemucod.net/thumbnail/100x100/$image
+||hianimez.to/images/level*$image
+
+! May 26, 2025 https://account.proton.me
+account.proton.me##.mb-6.sign-layout-header
+account.proton.me##div.mb-2.text-center.w-full:nth-of-type(3)
+account.proton.me##.md\:mb-0.mb-2.md\:pb-10.md\:pt-5.lg\:px-12.py-3.px-6.sm\:gap-4.gap-1.sign-layout-main-header
+account.proton.me##.z-up.relative.text-left.align-baseline.link-focus.link
+
+! May 26, 2025 https://mail.proton.me
+mail.proton.me##.h-full.loader-page
+mail.proton.me##.mt-2.px-3.app-infos.shrink-0
+mail.proton.me##.gap-0\.5.flex-nowrap.items-center.justify-space-between.shrink-0.md\:flex.hidden.logo-container
+mail.proton.me##.user-dropdown-text.lh130.flex-1
+mail.proton.me##.empty\:hidden.text-center.gap-1.flex-column.flex
+mail.proton.me##.text-sm.gap-2.justify-center.items-center.flex-nowrap.flex.p-2.relative.interactive-pseudo-inset.recommended-actions
+mail.proton.me##.gap-2.flex-column.flex.text-center.text-sm
+mail.proton.me##.gap-2.flex-column.flex.px-4.mb-4
+mail.proton.me##.text-2xl.ratio-square.w-custom.user-initials-active.user-initials.shrink-0.flex.relative.inline-block.border.rounded-xl.text-sm.mb-2.my-auto
+mail.proton.me##.no-print.md\:inline.hidden.drawer-sidebar
+mail.proton.me##.ui-standard.drawer-visibility-control--show.md\:flex.hidden.drawer-visibility-control
+
+! May 26, 2025 https://www.aparat.com
+www.aparat.com##.tablist-container.main-container.fJenFe.sc-bkkeKt
+www.aparat.com##.voice-search-wrapper.ddDsUa.sc-kJpAUB
+www.aparat.com##li.menu-item.gzKdmM.sc-bQtKYq:nth-of-type(4)
+www.aparat.com###sidebar-playlist
+www.aparat.com###sidebar-others
+www.aparat.com###footer-628
+www.aparat.com###footer-541
+www.aparat.com###footer-241
+www.aparat.com##li.menu-item.gzKdmM.sc-bQtKYq:nth-of-type(5)
+www.aparat.com##li.menu-item.gzKdmM.sc-bQtKYq:nth-of-type(7)
+www.aparat.com##li.menu-item.gzKdmM.sc-bQtKYq:nth-of-type(8)
+www.aparat.com##.social-list.gsKlvT.sc-kTqLtj
+www.aparat.com##li.link-item.fZXNrH.sc-fvxzrP:nth-of-type(4)
+www.aparat.com##li.link-item.fZXNrH.sc-fvxzrP:nth-of-type(2)
+www.aparat.com##div.list-row.kfzXai.sc-bjztik:nth-of-type(2)
+www.aparat.com##.comment-item > .column-second.column > .comment-body.hkLhdk.sc-eSJyHI > .control-actions.gEskgQ.sc-kQoPux
+www.aparat.com##.aparat-style-carousel.dNjkOe.sc-bjztik
+www.aparat.com##.follow-action.jpWoif.sc-XxNYO
+www.aparat.com##.save-others.action-item.dropdown-wrapper.frmqLR.sc-fXEqDS
+www.aparat.com##.save-button.action-item.button.AIufQ.sc-ksdxgE
+www.aparat.com##.is-open.video-moments.dhKjai.sc-bUhFKy
+www.aparat.com##.comment-insert.dlpWlU.sc-iboAsT
+www.aparat.com##.hKdKru.sc-bOTDDd
+www.aparat.com##.net-usage-volume.fQEQPV.sc-iJCbQK
+www.aparat.com##.lnsLTt.sc-hmjpVf
+www.aparat.com##button.icon-button.button-action.button.jOaIVu.sc-ksdxgE:nth-of-type(1)
+www.aparat.com##.social-list.djklsF.sc-haTkiu
+www.aparat.com###sidebar-footer
+||www.aparat.com/redesign/$image
+||www.aparat.com/public/public/aparat/img/global/avatar-is-channel.png$image
+||static.cdn.asset.aparatstyle.com/as/$image
+||static.cdn.asset.aparat.com/profile-photo$image
+
+! May 26, 2025 https://www.youtube.com
+www.youtube.com##ytd-guide-collapsible-section-entry-renderer.ytd-guide-section-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! May 26, 2025 https://duckduckgo.com
+duckduckgo.com##.WktWJWUFfihMbuzAEqk2.hUUdRtuaOUx7mcSwc56s.ffON2NH02oMAcqyoh2UU
+duckduckgo.com##.text_promo--text.text_promo--part
+
+! May 26, 2025 https://www.chess.com
+www.chess.com##.social-page.sprite.nav-link-top-level.nav-link-main-design.nav-link-component
+www.chess.com##.ui-mode.nav-action
+www.chess.com##.help.has-popover.nav-action
+www.chess.com##.watch-top.sprite.nav-link-top-level.nav-link-main-design.nav-link-component
+www.chess.com##.news-top.sprite.nav-link-top-level.nav-link-main-design.nav-link-component
+www.chess.com##.diamond-top.sprite.nav-link-top-level.trial.nav-link-main-design.nav-link-component
+www.chess.com##.nav-search-form
+www.chess.com##.direct-menu-sub-items
+www.chess.com##.board-layout-top.board-layout-player
+www.chess.com##.direct-menu-header-component
+www.chess.com##.is-home-page.toolbar-new-wrapper
+www.chess.com##.layout-column-one
+www.chess.com##div.cc-section:nth-of-type(3)
+www.chess.com##.navigation-footer-component
+www.chess.com##.new-game-index-footer
+www.chess.com##.player-bottom.player-component > .player-tagline
+www.chess.com##.opened-chats-container
+www.chess.com###mobile-top-section
+www.chess.com##.board-layout-evaluation
+www.chess.com##.board-layout-controls
+
+
+! google.com
+www.google.com##.logo
+www.google.com##.LS8OJ.yr19Zb.LLD4me.o3j99
+www.google.com##.Ne6nSd.n1xJcf.o3j99
+www.google.com##.iblpc
+www.google.com##.lJ9FBc.FPdoLc
+www.google.com##.dRYYxd.fM33ce
+www.google.com##.qarstb.o3j99
+www.google.com##div.o3j99:nth-of-type(6)
+www.google.com###sfooter
+||w3.org
+||www.w3.org
+||lh3.google.com
+
+! May 28, 2025 https://www.reddit.com
+||www.redditstatic.com/avatars/$image
+||styles.redditmedia.com/t5_2qlz9/styles$image
+||styles.redditmedia.com$image
+||styles.redditmedia.com$image
+||b.thumbs.redditmedia.com$image
+www.reddit.com##shreddit-feed-page-loading
+www.reddit.com##shreddit-loading
+
+
+! May 29, 2025 https://www.time.ir
+||www.time.ir$image
+www.time.ir##.Header_root___okXo
+www.time.ir##div.DateBoxResult_root__dateBox__Ivn1L.DateBox_root__K4S8K:nth-of-type(4)
+www.time.ir##.color_secondary.variant_general.RandomBrainyQuote_root__soA3m.CustomBox_root__TwLvz
+www.time.ir##.color_tertiary.variant_container.EphemerisList_root__F6abL.CustomBox_root__TwLvz
+www.time.ir##.color_tertiary.variant_container.ConvertDate_root__ff7y9.CustomBox_root__TwLvz
+www.time.ir##.color_tertiary.variant_container.ArticleDetailBrief_root__S1ooG.CustomBox_root__TwLvz
+www.time.ir##.color_noColor.variant_container.Download_root__ojKe4.CustomBox_root__TwLvz
+www.time.ir##.Footer_root__H5WJ7
+www.time.ir##.BackToTop_root__k5TZn
+www.time.ir##.CalendarBox_root__leftCalendarLine__NUeaW
+www.time.ir##.CalendarBox_root__rightCalendarLine__TnEFJ
+www.time.ir##.muirtl-gses16.EventList_root__header__lu8Ru.MuiTypography-h2.MuiTypography-root
