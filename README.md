@@ -99,4 +99,4 @@ This is my version. PhantomNet.
 
 Let’s make the web suck less — one filter at a time.
 
-© 2025 — Chills
+© 2025 — IsekaiDetectiveAgency
